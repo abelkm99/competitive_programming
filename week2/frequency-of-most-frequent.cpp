@@ -3,6 +3,24 @@
 #define ll long long
 #define pb push_back
 using namespace std;
+int maxFrequency(vector<int> &arr,int k){
+	sort(arr.begin(),arr.end());
+	ll l = 0;
+	ll r = 0;
+	ll total = 0;
+	ll largest = 0;
+	while(r<arr.size()){
+		total+=arr[r];
+		while(arr[r]*(r-l+1)>total+k){
+			total-=arr[l];
+			l++;
+		}
+		largest = max(largest,r-l+1);
+		r++;
+	}
+	return largest;
+}
+
 /*
   13 8 4 1
 
@@ -14,8 +32,7 @@ using namespace std;
   4*2 < 5+5
 
 1,4,8,13
-*/
-int maxFrequency(vector<int> &arr, int k) {
+int maxFrequency_working(vector<int> &arr, int k) {
   sort(arr.begin(), arr.end());
   int l = 0;
   int r = 0;
@@ -54,6 +71,7 @@ int maxFrequency0(vector<int> &nums, int k) {
   }
   return large + 1;
 }
+*/
 int main() {
   ios::sync_with_stdio(false);
   cin.tie(0);
