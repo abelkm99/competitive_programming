@@ -11,8 +11,8 @@ using namespace std;
         2 4 7 2
 
 
-
-
+        [1,5,6,7,8,10,6,5,6]->4
+        6,7,8,10,6,5
  * */
 void print_d(priority_queue<int, vector<int>, greater<int>> d) {
   while (!d.empty()) {
@@ -27,6 +27,43 @@ void print_d(priority_queue<int> d) {
     d.pop();
   }
   cout << endl;
+}
+
+int solution_with_heap(vector<int> &nums, int limit) {
+  // hold the value and the index;
+  priority_queue<pair<int, int>, vector<pair<int, int>>,
+                 greater<pair<int, int>>>
+      minH;
+  priority_queue<pair<int, int>> maxH;
+
+  int l = 0;
+  int r = 0;
+  int ans = 0;
+  while (r < nums.size()) {
+    while (!minH.empty() && abs(nums[r] - minH.top().first) > limit) {
+      // cout << "conflict with min \t";
+      int nl = minH.top().second + 1;
+      l = max(nl, l);
+      minH.pop();
+      // cout << "now left is " << nums[l] << endl;
+    }
+    while (!maxH.empty() && abs(nums[r] - maxH.top().first) > limit) {
+      int nl = maxH.top().second + 1;
+      l = max(nl, l);
+      maxH.pop();
+    }
+    int diff = r - l + 1;
+    // cout << r << "-" << l << "+1"
+    //      << "=" << diff << endl;
+    ans = max(ans, diff);
+    // if (diff > ans)
+    //   ans = diff;
+    maxH.push({nums[r], r});
+    minH.push({nums[r], r});
+    r++;
+  }
+
+  return ans;
 }
 
 /**
@@ -93,12 +130,13 @@ int main() {
   ios::sync_with_stdio(false);
   cin.tie(0);
   cout.tie(0);
-  vector<int> arr = {1, 5, 6, 7, 8, 10, 6, 5, 6};
-  int limit = 4;
+  // vector<int> arr = {1, 5, 6, 7, 8, 10, 6, 5, 6};
+  vector<int> arr = {4, 2, 2, 2, 4, 4, 2, 2};
+  int limit = 0;
   for (int x : arr)
     cout << x << " ";
   cout << endl;
-  cout << solution2(arr, limit) << endl;
+  cout << solution_with_heap(arr, limit) << endl;
   return 0;
 }
 
