@@ -1,19 +1,20 @@
 class Solution {
 public:
     int minimumOperations(vector<int>& nums) {
+        sort(nums.rbegin(), nums.rend());
+        while(nums.size() and nums.back() == 0) {
+            nums.pop_back();
+        }
+        reverse(nums.begin(), nums.end());
+        
+        int sm = 0;
         int cnt = 0;
-        while(accumulate(nums.begin(), nums.end(), 0)) {
-            cnt++;
-            int mn = INT_MAX;
-            for (auto x: nums) {
-                if(x) {
-                    mn = min(x, mn);
-                }
-            }
-            for (auto &x: nums) {
-                if(x) {
-                    x -= mn;
-                }
+        for (int i = 0; i < nums.size(); i++) {
+            if(nums[i] - sm > 0) {
+                // means i can also contribute
+                nums[i] -= sm;
+                sm += nums[i];
+                cnt++;
             }
         }
         return cnt;
