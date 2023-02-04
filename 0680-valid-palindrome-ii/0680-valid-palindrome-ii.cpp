@@ -1,31 +1,29 @@
 class Solution {
 public:
-bool solve(string s , int a, int l){
-    while(a<l){
-     if(s[a]==s[l]){
-         a++;
-         l--;
-         
-      }
-    else {
-         return false;
-       }
-    }
-    return true;
-}
     bool validPalindrome(string s) {
+        
         int n = s.length();
-       int a = 0;
-       int l = n-1;
-       //int f=0;
-       while(a<l){
-          if(s[a]==s[l]){
-              a++; l--;
-          }
-          else return (solve(s,a+1,l) || solve(s,a,l-1));
-       }
-       
-       return true;
-
+        int p1 = 0;
+        int p2 = n-1;
+        while(p1 < p2 and s[p1] == s[p2]) {
+            p1++;
+            p2--;
+        }
+        if(p1 >= p2) return true;
+        int a = p1;
+        int b = p2-1;
+        while(a < b and s[a] == s[b]) {
+            a++;
+            b--;
+        }
+        if(a >= b) return true;
+        a = p1+1;
+        b = p2;
+        while(a < b and s[a] == s[b]) {
+            a++;
+            b--;
+        }
+        if(a >= b) return true;
+        return false;
     }
 };
