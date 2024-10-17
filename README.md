@@ -65,6 +65,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/abelkm99/competitive_programming/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/abelkm99/competitive_programming/tree/master/1304-longest-happy-string) |
 ## Heap (Priority Queue)
 |  |
@@ -87,4 +88,8 @@
 | [0200-number-of-islands](https://github.com/abelkm99/competitive_programming/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/abelkm99/competitive_programming/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/abelkm99/competitive_programming/tree/master/1036-rotting-oranges) |
+## Math
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/abelkm99/competitive_programming/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
