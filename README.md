@@ -27,6 +27,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abelkm99/competitive_programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abelkm99/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/abelkm99/competitive_programming/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abelkm99/competitive_programming/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -39,6 +40,7 @@
 | [0200-number-of-islands](https://github.com/abelkm99/competitive_programming/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abelkm99/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/abelkm99/competitive_programming/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abelkm99/competitive_programming/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/abelkm99/competitive_programming/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -88,6 +90,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/abelkm99/competitive_programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abelkm99/competitive_programming/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/abelkm99/competitive_programming/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abelkm99/competitive_programming/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
@@ -101,4 +104,8 @@
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/abelkm99/competitive_programming/tree/master/0670-maximum-swap) |
+## Graph
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/abelkm99/competitive_programming/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
