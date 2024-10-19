@@ -13,6 +13,7 @@
 | [0226-invert-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abelkm99/competitive_programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -59,11 +60,13 @@
 | [0226-invert-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abelkm99/competitive_programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abelkm99/competitive_programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +83,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1304-longest-happy-string](https://github.com/abelkm99/competitive_programming/tree/master/1304-longest-happy-string) |
 ## Array
 |  |
@@ -119,4 +123,12 @@
 | ------- |
 | [0207-course-schedule](https://github.com/abelkm99/competitive_programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abelkm99/competitive_programming/tree/master/0210-course-schedule-ii) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
