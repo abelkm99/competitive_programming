@@ -1,27 +1,27 @@
+from collections import deque
 class Solution:
     def canFinish(self, n: int, edges: List[List[int]]) -> bool:
         G = [[] for _ in range(n)]
-        visited = [0] * n
-        local = [0] * n
-        can = True
+        in_nodes = [0] * n
 
         for v, u in edges:
             G[u].append(v)
+            in_nodes[v] += 1
         
-        def dfs(u):
-            nonlocal can
-            if visited[u]:
-                return
-            if local[u]:
-                can = False
-                return
-            local[u] = 1
+        dq = deque()
+        
+        for i, cnt in enumerate(in_nodes):
+            if cnt == 0:
+                dq.append(i)
+        
+        while dq:
+            u = dq.popleft()
             for v in G[u]:
-                dfs(v)
-            local[u] = 0
-            visited[u] = 1
+                in_nodes[v] -= 1
+                if in_nodes[v] == 0:
+                    dq.append(v)
+                    continue
+                if in_nodes[v] < 0:
+                    return False
 
-        for i in range(n):
-            dfs(i)
-
-        return can
+        return sum(in_nodes) == 0
