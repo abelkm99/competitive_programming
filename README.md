@@ -85,6 +85,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/abelkm99/competitive_programming/tree/master/1304-longest-happy-string) |
 ## Array
 |  |
@@ -94,6 +95,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abelkm99/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/abelkm99/competitive_programming/tree/master/0695-max-area-of-island) |
+| [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/abelkm99/competitive_programming/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/abelkm99/competitive_programming/tree/master/0670-maximum-swap) |
+| [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 ## Graph
 |  |
 | ------- |
@@ -137,12 +140,19 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
