@@ -65,6 +65,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abelkm99/competitive_programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abelkm99/competitive_programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Dynamic Programming
@@ -92,6 +93,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abelkm99/competitive_programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0130-surrounded-regions](https://github.com/abelkm99/competitive_programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abelkm99/competitive_programming/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
@@ -142,6 +144,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abelkm99/competitive_programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
