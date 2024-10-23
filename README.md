@@ -111,6 +111,7 @@
 | [0907-koko-eating-bananas](https://github.com/abelkm99/competitive_programming/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/abelkm99/competitive_programming/tree/master/1036-rotting-oranges) |
+| [1706-min-cost-to-connect-all-points](https://github.com/abelkm99/competitive_programming/tree/master/1706-min-cost-to-connect-all-points) |
 ## Union Find
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0200-number-of-islands](https://github.com/abelkm99/competitive_programming/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/abelkm99/competitive_programming/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abelkm99/competitive_programming/tree/master/0695-max-area-of-island) |
+| [1706-min-cost-to-connect-all-points](https://github.com/abelkm99/competitive_programming/tree/master/1706-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0207-course-schedule](https://github.com/abelkm99/competitive_programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abelkm99/competitive_programming/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/abelkm99/competitive_programming/tree/master/0684-redundant-connection) |
+| [1706-min-cost-to-connect-all-points](https://github.com/abelkm99/competitive_programming/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -190,4 +193,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/abelkm99/competitive_programming/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
