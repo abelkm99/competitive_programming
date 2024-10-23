@@ -33,7 +33,7 @@ class Solution:
 
         while heap:
             tmp, u, v = heappop(heap)
-            print(u, v)
+            # print(u, v)
             if join(u, v):
                 cost += tmp
 
