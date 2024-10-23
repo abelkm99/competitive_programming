@@ -80,6 +80,7 @@
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [1304-longest-happy-string](https://github.com/abelkm99/competitive_programming/tree/master/1304-longest-happy-string) |
 ## Greedy
 |  |
@@ -144,6 +145,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -174,6 +176,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0621-task-scheduler](https://github.com/abelkm99/competitive_programming/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
@@ -183,4 +186,8 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/abelkm99/competitive_programming/tree/master/0031-next-permutation) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
