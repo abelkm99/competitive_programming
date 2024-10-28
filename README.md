@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abelkm99/competitive_programming/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/abelkm99/competitive_programming/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/abelkm99/competitive_programming/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abelkm99/competitive_programming/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -143,6 +144,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abelkm99/competitive_programming/tree/master/0013-roman-to-integer) |
 | [0670-maximum-swap](https://github.com/abelkm99/competitive_programming/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 ## Graph
@@ -192,6 +194,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abelkm99/competitive_programming/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/abelkm99/competitive_programming/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0567-permutation-in-string](https://github.com/abelkm99/competitive_programming/tree/master/0567-permutation-in-string) |
