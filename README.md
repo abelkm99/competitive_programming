@@ -36,6 +36,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/abelkm99/competitive_programming/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abelkm99/competitive_programming/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/abelkm99/competitive_programming/tree/master/0744-network-delay-time) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -51,6 +52,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/abelkm99/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/abelkm99/competitive_programming/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abelkm99/competitive_programming/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/abelkm99/competitive_programming/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/abelkm99/competitive_programming/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -105,6 +107,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/abelkm99/competitive_programming/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/abelkm99/competitive_programming/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/abelkm99/competitive_programming/tree/master/1304-longest-happy-string) |
@@ -153,6 +156,7 @@
 | [0207-course-schedule](https://github.com/abelkm99/competitive_programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abelkm99/competitive_programming/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/abelkm99/competitive_programming/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/abelkm99/competitive_programming/tree/master/0744-network-delay-time) |
 | [1706-min-cost-to-connect-all-points](https://github.com/abelkm99/competitive_programming/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -232,4 +236,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/abelkm99/competitive_programming/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
