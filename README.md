@@ -85,6 +85,7 @@
 | [0792-binary-search](https://github.com/abelkm99/competitive_programming/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/abelkm99/competitive_programming/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/abelkm99/competitive_programming/tree/master/0907-koko-eating-bananas) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/abelkm99/competitive_programming/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/abelkm99/competitive_programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/abelkm99/competitive_programming/tree/master/1304-longest-happy-string) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/abelkm99/competitive_programming/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Array
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/abelkm99/competitive_programming/tree/master/1036-rotting-oranges) |
 | [1706-min-cost-to-connect-all-points](https://github.com/abelkm99/competitive_programming/tree/master/1706-min-cost-to-connect-all-points) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/abelkm99/competitive_programming/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Union Find
 |  |
 | ------- |
@@ -208,6 +211,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abelkm99/competitive_programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/abelkm99/competitive_programming/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/abelkm99/competitive_programming/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Quickselect
 |  |
@@ -266,4 +270,8 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/abelkm99/competitive_programming/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abelkm99/competitive_programming/tree/master/0803-cheapest-flights-within-k-stops) |
+## Line Sweep
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/abelkm99/competitive_programming/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
