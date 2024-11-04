@@ -91,6 +91,7 @@
 | [0005-longest-palindromic-substring](https://github.com/abelkm99/competitive_programming/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abelkm99/competitive_programming/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abelkm99/competitive_programming/tree/master/0803-cheapest-flights-within-k-stops) |
 ## String
 |  |
@@ -106,6 +107,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/abelkm99/competitive_programming/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/abelkm99/competitive_programming/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/abelkm99/competitive_programming/tree/master/1304-longest-happy-string) |
@@ -132,6 +134,7 @@
 | [0200-number-of-islands](https://github.com/abelkm99/competitive_programming/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abelkm99/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/abelkm99/competitive_programming/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/abelkm99/competitive_programming/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/abelkm99/competitive_programming/tree/master/0792-binary-search) |
@@ -199,6 +202,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/abelkm99/competitive_programming/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
