@@ -101,6 +101,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/abelkm99/competitive_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/abelkm99/competitive_programming/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/abelkm99/competitive_programming/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/abelkm99/competitive_programming/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/abelkm99/competitive_programming/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abelkm99/competitive_programming/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -272,6 +273,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abelkm99/competitive_programming/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
