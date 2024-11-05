@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abelkm99/competitive_programming/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/abelkm99/competitive_programming/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abelkm99/competitive_programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0435-non-overlapping-intervals) |
@@ -102,6 +103,7 @@
 | [0005-longest-palindromic-substring](https://github.com/abelkm99/competitive_programming/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/abelkm99/competitive_programming/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/abelkm99/competitive_programming/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abelkm99/competitive_programming/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/abelkm99/competitive_programming/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abelkm99/competitive_programming/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -307,4 +309,8 @@
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/abelkm99/competitive_programming/tree/master/1184-car-pooling) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/abelkm99/competitive_programming/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
