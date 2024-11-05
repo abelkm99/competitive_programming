@@ -139,6 +139,7 @@
 | [0056-merge-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abelkm99/competitive_programming/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/abelkm99/competitive_programming/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abelkm99/competitive_programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/abelkm99/competitive_programming/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abelkm99/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/abelkm99/competitive_programming/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abelkm99/competitive_programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0670-maximum-swap](https://github.com/abelkm99/competitive_programming/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 ## Graph
@@ -276,6 +278,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/abelkm99/competitive_programming/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abelkm99/competitive_programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abelkm99/competitive_programming/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
