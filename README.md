@@ -152,6 +152,7 @@
 | [0739-daily-temperatures](https://github.com/abelkm99/competitive_programming/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/abelkm99/competitive_programming/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/abelkm99/competitive_programming/tree/master/0794-swim-in-rising-water) |
+| [0883-car-fleet](https://github.com/abelkm99/competitive_programming/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/abelkm99/competitive_programming/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/abelkm99/competitive_programming/tree/master/1036-rotting-oranges) |
@@ -224,6 +225,7 @@
 | [0435-non-overlapping-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abelkm99/competitive_programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/abelkm99/competitive_programming/tree/master/0621-task-scheduler) |
+| [0883-car-fleet](https://github.com/abelkm99/competitive_programming/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/abelkm99/competitive_programming/tree/master/1184-car-pooling) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/abelkm99/competitive_programming/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -284,11 +286,13 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/abelkm99/competitive_programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abelkm99/competitive_programming/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/abelkm99/competitive_programming/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/abelkm99/competitive_programming/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/abelkm99/competitive_programming/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/abelkm99/competitive_programming/tree/master/0883-car-fleet) |
 ## Shortest Path
 |  |
 | ------- |
