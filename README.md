@@ -140,6 +140,7 @@
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abelkm99/competitive_programming/tree/master/0057-insert-interval) |
+| [0084-largest-rectangle-in-histogram](https://github.com/abelkm99/competitive_programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/abelkm99/competitive_programming/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abelkm99/competitive_programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/abelkm99/competitive_programming/tree/master/0200-number-of-islands) |
@@ -283,6 +284,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/abelkm99/competitive_programming/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/abelkm99/competitive_programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abelkm99/competitive_programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abelkm99/competitive_programming/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/abelkm99/competitive_programming/tree/master/0739-daily-temperatures) |
@@ -291,6 +293,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/abelkm99/competitive_programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/abelkm99/competitive_programming/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/abelkm99/competitive_programming/tree/master/0883-car-fleet) |
 ## Shortest Path
