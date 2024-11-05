@@ -197,6 +197,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/abelkm99/competitive_programming/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abelkm99/competitive_programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -275,6 +276,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/abelkm99/competitive_programming/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/abelkm99/competitive_programming/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
