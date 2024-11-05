@@ -93,6 +93,7 @@
 | [0005-longest-palindromic-substring](https://github.com/abelkm99/competitive_programming/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/abelkm99/competitive_programming/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abelkm99/competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abelkm99/competitive_programming/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abelkm99/competitive_programming/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -142,6 +143,7 @@
 | [0056-merge-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abelkm99/competitive_programming/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abelkm99/competitive_programming/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abelkm99/competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/abelkm99/competitive_programming/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abelkm99/competitive_programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/abelkm99/competitive_programming/tree/master/0200-number-of-islands) |
