@@ -141,6 +141,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/abelkm99/competitive_programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/abelkm99/competitive_programming/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/abelkm99/competitive_programming/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/abelkm99/competitive_programming/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abelkm99/competitive_programming/tree/master/0057-insert-interval) |
@@ -180,6 +181,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abelkm99/competitive_programming/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/abelkm99/competitive_programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abelkm99/competitive_programming/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abelkm99/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
@@ -254,6 +256,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abelkm99/competitive_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/abelkm99/competitive_programming/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/abelkm99/competitive_programming/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/abelkm99/competitive_programming/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/abelkm99/competitive_programming/tree/master/0424-longest-repeating-character-replacement) |
