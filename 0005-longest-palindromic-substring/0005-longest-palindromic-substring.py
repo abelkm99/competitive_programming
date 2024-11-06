@@ -1,34 +1,22 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        
-        # i can return l and r as well ass the distance
-        dp = [[-1 for _ in range(len(s))] for _ in range(len(s))]
-        def solve(l: int, r: int):
-            if r < l:
-                return (0, 0, 0)
-
-            if dp[l][r] != -1:
-                return dp[l][r]
-
-            if l == r:
-                dp[l][r] = (1, l, r)
-                return dp[l][r]
-                
-            if s[l] == s[r]:
-                # check if it's palindrom from here
-                p, q = l, r
-                while p <= q and s[p] == s[q]:
-                    p += 1
-                    q -= 1
-                if p > q:
-                    dp[l][r] = (r - l + 1, l, r)
-                    return dp[l][r]
-
-            case_2 = solve(l + 1, r)
-            case_3 = solve(l, r - 1)
-            dp[l][r] = max(case_2, case_3)
-            return dp[l][r]
-        
-        _, l, r = solve(0, len(s) - 1)
-        # print(l, r)
-        return s[l:r + 1]
+        n = len(s)
+        dp = [[0 for i in range(n)] for i in range(n)]
+        mx = 0
+        start, end = 0, 0
+        for r in range(n):
+            for l in range(r+1):
+                if s[l] == s[r]:
+                    # this is where we play the game
+                    if l == r:
+                        dp[r][l] = 1
+                    else:
+                        # check if the previous is also palindrom if it's just two string
+                        if r - l < 2:
+                            dp[r][l] = 2
+                        elif dp[r - 1][l + 1]:
+                            dp[r][l] = dp[r - 1][l + 1] + 2
+                    if dp[r][l] > mx:
+                        start, end = l, r
+                        mx = dp[r][l]
+        return s[start:end + 1]
