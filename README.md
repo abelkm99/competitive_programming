@@ -149,6 +149,7 @@
 | [0057-insert-interval](https://github.com/abelkm99/competitive_programming/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abelkm99/competitive_programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abelkm99/competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/abelkm99/competitive_programming/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/abelkm99/competitive_programming/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abelkm99/competitive_programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/abelkm99/competitive_programming/tree/master/0200-number-of-islands) |
@@ -175,6 +176,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abelkm99/competitive_programming/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/abelkm99/competitive_programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abelkm99/competitive_programming/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/abelkm99/competitive_programming/tree/master/0684-redundant-connection) |
@@ -264,6 +266,7 @@
 | [0013-roman-to-integer](https://github.com/abelkm99/competitive_programming/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/abelkm99/competitive_programming/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/abelkm99/competitive_programming/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/abelkm99/competitive_programming/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/abelkm99/competitive_programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abelkm99/competitive_programming/tree/master/0242-valid-anagram) |
