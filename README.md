@@ -98,6 +98,7 @@
 | [0091-decode-ways](https://github.com/abelkm99/competitive_programming/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abelkm99/competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abelkm99/competitive_programming/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/abelkm99/competitive_programming/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/abelkm99/competitive_programming/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abelkm99/competitive_programming/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/abelkm99/competitive_programming/tree/master/0322-coin-change) |
@@ -115,6 +116,7 @@
 | [0049-group-anagrams](https://github.com/abelkm99/competitive_programming/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abelkm99/competitive_programming/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/abelkm99/competitive_programming/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/abelkm99/competitive_programming/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abelkm99/competitive_programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/abelkm99/competitive_programming/tree/master/0242-valid-anagram) |
@@ -161,6 +163,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abelkm99/competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abelkm99/competitive_programming/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/abelkm99/competitive_programming/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/abelkm99/competitive_programming/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abelkm99/competitive_programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/abelkm99/competitive_programming/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abelkm99/competitive_programming/tree/master/0200-number-of-islands) |
@@ -284,6 +287,7 @@
 | [0049-group-anagrams](https://github.com/abelkm99/competitive_programming/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abelkm99/competitive_programming/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/abelkm99/competitive_programming/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/abelkm99/competitive_programming/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/abelkm99/competitive_programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abelkm99/competitive_programming/tree/master/0242-valid-anagram) |
@@ -307,6 +311,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/abelkm99/competitive_programming/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abelkm99/competitive_programming/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Minimum Spanning Tree
@@ -377,4 +382,5 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abelkm99/competitive_programming/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/abelkm99/competitive_programming/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
