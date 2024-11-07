@@ -12,7 +12,6 @@ class Solution:
             tmp_mx = max(mn * num, mx * num, num)
             tmp_mn = min(mn * num, mx * num, num)
             mn, mx = tmp_mn, tmp_mx
-            print(num, mn, mx)
             ans = max(ans, mn, mx)
         
         return ans
