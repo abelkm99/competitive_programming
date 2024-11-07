@@ -7,19 +7,16 @@ class Solution:
         # how will i do that.
         # from here to the end
         wordDict = set(wordDict)
+        n = len(s) + 1
+        dp = [[0 for _ in range(n)] for _ in range(n)]
 
-        @cache
-        def dfs(idx: int, start: int):
-            if idx == len(s):
-                return idx == start
+        dp[0][0] = 1
 
-            case_1, case_2 = False, False
-            wrd = s[start:idx + 1]
-            if wrd in wordDict:
-                # mean i can break it here
-                case_1 = dfs(idx + 1, idx + 1)
+        for i in range(1,n):
+            for j in range(i, n):
+                wrd = s[i - 1:j]
+                dp[i][j] = dp[i - 1][j] or (dp[i - 1][i - 1] if wrd in wordDict else 0)
+                # print(i, j, wrd, "res ",dp[i][j])
 
-            case_2 = dfs(idx+1, start)
-            return case_1 or case_2
         
-        return dfs(0, 0)
+        return dp[n - 1][n - 1] == 1
