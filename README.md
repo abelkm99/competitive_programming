@@ -95,6 +95,7 @@
 | [0005-longest-palindromic-substring](https://github.com/abelkm99/competitive_programming/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/abelkm99/competitive_programming/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/abelkm99/competitive_programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abelkm99/competitive_programming/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/abelkm99/competitive_programming/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abelkm99/competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -221,6 +222,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/abelkm99/competitive_programming/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/abelkm99/competitive_programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abelkm99/competitive_programming/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abelkm99/competitive_programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0670-maximum-swap](https://github.com/abelkm99/competitive_programming/tree/master/0670-maximum-swap) |
@@ -390,4 +392,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/abelkm99/competitive_programming/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/abelkm99/competitive_programming/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/abelkm99/competitive_programming/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
