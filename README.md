@@ -110,6 +110,7 @@
 | [0435-non-overlapping-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/abelkm99/competitive_programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abelkm99/competitive_programming/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1250-longest-common-subsequence](https://github.com/abelkm99/competitive_programming/tree/master/1250-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0242-valid-anagram](https://github.com/abelkm99/competitive_programming/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/abelkm99/competitive_programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abelkm99/competitive_programming/tree/master/0567-permutation-in-string) |
+| [1250-longest-common-subsequence](https://github.com/abelkm99/competitive_programming/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/abelkm99/competitive_programming/tree/master/1304-longest-happy-string) |
 ## Greedy
 |  |
