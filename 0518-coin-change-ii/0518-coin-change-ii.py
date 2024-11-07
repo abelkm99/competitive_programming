@@ -1,12 +1,10 @@
 class Solution:
     def change(self, amount: int, coins: List[int]) -> int:
 
-        @cache
-        def solve(amount: int, idx: int):
-            if amount == 0:
-                return 1
-            if amount < 0 or idx < 0:
-                return 0
-            
-            return solve(amount - coins[idx], idx) + solve(amount, idx - 1)
-        return solve(amount, len(coins) - 1)
+        dp = [0] * (amount + 1)
+        dp[0] = 1
+        for c in coins:
+            for rem in range(c, amount + 1):
+                dp[rem] += dp[rem - c]
+
+        return dp[-1]
