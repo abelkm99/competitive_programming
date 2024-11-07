@@ -13,7 +13,5 @@ class Solution:
             tmp = dp.copy()
             for i in range(target, c - 1, -1):
                 dp[i] |= dp[i - c]
-        
-        print(dp)
 
         return dp[target] == 1
