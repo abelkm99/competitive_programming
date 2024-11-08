@@ -1,18 +1,18 @@
 class Solution:
     def numDistinct(self, s: str, t: str) -> int:
 
-        @cache
-        def solve(l:int, r:int) -> int:
-            if r == len(t):
-                return 1
-            if l == len(s):
-                return 0
-            
-            case_1 = solve(l + 1, r) # don't pick
-            case_2 = 0
-            if s[l] == t[r]:
-                case_2 = solve(l + 1, r + 1)
+        n, m = len(t), len(s)
 
-            return case_1 + case_2
-        
-        return solve(0, 0)
+        dp = [[0 for _ in range(m + 1)] for _ in range(n + 1)]
+
+        for i in range(m):
+            dp[0][i] = 1
+
+
+        for i in range(1, n + 1):
+            for j in range(1, m + 1):
+                dp[i][j] = dp[i][j - 1]
+                if s[j - 1] == t[i - 1]:
+                    dp[i][j] += dp[i - 1][j - 1]
+
+        return dp[n][m]
