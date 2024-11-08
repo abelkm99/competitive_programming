@@ -23,7 +23,6 @@ class Solution:
                 if not in_node[i][j]:
                     dq.append((i, j, 1))
         
-        print(dq)
         while dq:
             i, j, c = dq.popleft()
             ans = max(ans, c)
