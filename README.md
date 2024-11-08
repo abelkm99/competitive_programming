@@ -32,6 +32,7 @@
 | [0226-invert-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abelkm99/competitive_programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abelkm99/competitive_programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abelkm99/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/abelkm99/competitive_programming/tree/master/0684-redundant-connection) |
@@ -52,6 +53,7 @@
 | [0210-course-schedule-ii](https://github.com/abelkm99/competitive_programming/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/abelkm99/competitive_programming/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abelkm99/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/abelkm99/competitive_programming/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abelkm99/competitive_programming/tree/master/0695-max-area-of-island) |
@@ -108,6 +110,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/abelkm99/competitive_programming/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abelkm99/competitive_programming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/abelkm99/competitive_programming/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/abelkm99/competitive_programming/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/abelkm99/competitive_programming/tree/master/0518-coin-change-ii) |
@@ -186,6 +189,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/abelkm99/competitive_programming/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abelkm99/competitive_programming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/abelkm99/competitive_programming/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/abelkm99/competitive_programming/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abelkm99/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0435-non-overlapping-intervals) |
@@ -222,6 +226,7 @@
 | [0036-valid-sudoku](https://github.com/abelkm99/competitive_programming/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/abelkm99/competitive_programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abelkm99/competitive_programming/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abelkm99/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/abelkm99/competitive_programming/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/abelkm99/competitive_programming/tree/master/0794-swim-in-rising-water) |
@@ -240,6 +245,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/abelkm99/competitive_programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abelkm99/competitive_programming/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/abelkm99/competitive_programming/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/abelkm99/competitive_programming/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abelkm99/competitive_programming/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -249,6 +255,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/abelkm99/competitive_programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abelkm99/competitive_programming/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Design
 |  |
 | ------- |
@@ -400,6 +407,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/abelkm99/competitive_programming/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/abelkm99/competitive_programming/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Combinatorics
 |  |
 | ------- |
