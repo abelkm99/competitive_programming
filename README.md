@@ -172,6 +172,7 @@
 | [0031-next-permutation](https://github.com/abelkm99/competitive_programming/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/abelkm99/competitive_programming/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/abelkm99/competitive_programming/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/abelkm99/competitive_programming/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0056-merge-intervals) |
@@ -227,6 +228,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/abelkm99/competitive_programming/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/abelkm99/competitive_programming/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/abelkm99/competitive_programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abelkm99/competitive_programming/tree/master/0200-number-of-islands) |
@@ -239,6 +241,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/abelkm99/competitive_programming/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/abelkm99/competitive_programming/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/abelkm99/competitive_programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abelkm99/competitive_programming/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abelkm99/competitive_programming/tree/master/0150-evaluate-reverse-polish-notation) |
