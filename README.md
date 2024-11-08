@@ -173,6 +173,7 @@
 | [0036-valid-sudoku](https://github.com/abelkm99/competitive_programming/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abelkm99/competitive_programming/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abelkm99/competitive_programming/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abelkm99/competitive_programming/tree/master/0084-largest-rectangle-in-histogram) |
@@ -226,6 +227,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/abelkm99/competitive_programming/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/abelkm99/competitive_programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abelkm99/competitive_programming/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -391,6 +393,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0054-spiral-matrix) |
 | [1184-car-pooling](https://github.com/abelkm99/competitive_programming/tree/master/1184-car-pooling) |
 ## Backtracking
 |  |
