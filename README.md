@@ -247,6 +247,7 @@
 | [0066-plus-one](https://github.com/abelkm99/competitive_programming/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/abelkm99/competitive_programming/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abelkm99/competitive_programming/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/abelkm99/competitive_programming/tree/master/0202-happy-number) |
 | [0670-maximum-swap](https://github.com/abelkm99/competitive_programming/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 ## Graph
@@ -321,6 +322,7 @@
 | [0076-minimum-window-substring](https://github.com/abelkm99/competitive_programming/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/abelkm99/competitive_programming/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/abelkm99/competitive_programming/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/abelkm99/competitive_programming/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/abelkm99/competitive_programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abelkm99/competitive_programming/tree/master/0242-valid-anagram) |
@@ -339,6 +341,7 @@
 | [0015-3sum](https://github.com/abelkm99/competitive_programming/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/abelkm99/competitive_programming/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
+| [0202-happy-number](https://github.com/abelkm99/competitive_programming/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/abelkm99/competitive_programming/tree/master/0567-permutation-in-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abelkm99/competitive_programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Trie
