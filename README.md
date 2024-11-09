@@ -177,6 +177,7 @@
 | [0054-spiral-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abelkm99/competitive_programming/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/abelkm99/competitive_programming/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abelkm99/competitive_programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abelkm99/competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abelkm99/competitive_programming/tree/master/0128-longest-consecutive-sequence) |
@@ -243,6 +244,7 @@
 | [0013-roman-to-integer](https://github.com/abelkm99/competitive_programming/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/abelkm99/competitive_programming/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/abelkm99/competitive_programming/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/abelkm99/competitive_programming/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/abelkm99/competitive_programming/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abelkm99/competitive_programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0670-maximum-swap](https://github.com/abelkm99/competitive_programming/tree/master/0670-maximum-swap) |
