@@ -26,8 +26,7 @@ class Solution:
         for j in range(i, n):
             while valid(j):
                 arr[j] += 1
-                if arr[j] == k:
-                    arr[j] %= k
+                arr[j] %= k
 
         ans =  "".join([chr(x + ord('a')) for x in arr])
         # print(ans)
