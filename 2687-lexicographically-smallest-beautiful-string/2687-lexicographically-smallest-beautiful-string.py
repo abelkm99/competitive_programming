@@ -28,7 +28,6 @@ class Solution:
                 arr[j] += 1
                 if arr[j] == k:
                     arr[j] %= k
-                    break
 
         ans =  "".join([chr(x + ord('a')) for x in arr])
         # print(ans)
