@@ -7,7 +7,7 @@ class Solution:
 
         def valid(i):
             return i >= 1 and arr[i] == arr[i - 1] or i >= 2 and arr[i] == arr[i -2]
-        print(arr)
+        # print(arr)
         while i >= 0:
             arr[i] += 1
             while valid(i):
