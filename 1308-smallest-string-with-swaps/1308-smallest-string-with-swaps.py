@@ -32,7 +32,7 @@ class Solution:
         for g in groups.keys():
             groups[g] = sorted(groups[g], reverse = True)
         
-        print(groups)
+        # print(groups)
 
         # reverse sorted
 
