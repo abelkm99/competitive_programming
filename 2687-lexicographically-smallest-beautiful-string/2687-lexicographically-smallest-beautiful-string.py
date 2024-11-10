@@ -21,7 +21,7 @@ class Solution:
             else:
                 break 
 
-        print(arr)
+        # print(arr)
 
         for j in range(i, n):
             cnt = 0
