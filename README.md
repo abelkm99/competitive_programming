@@ -215,6 +215,7 @@
 | [1036-rotting-oranges](https://github.com/abelkm99/competitive_programming/tree/master/1036-rotting-oranges) |
 | [1184-car-pooling](https://github.com/abelkm99/competitive_programming/tree/master/1184-car-pooling) |
 | [1308-smallest-string-with-swaps](https://github.com/abelkm99/competitive_programming/tree/master/1308-smallest-string-with-swaps) |
+| [1375-find-palindrome-with-fixed-length](https://github.com/abelkm99/competitive_programming/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1706-min-cost-to-connect-all-points](https://github.com/abelkm99/competitive_programming/tree/master/1706-min-cost-to-connect-all-points) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/abelkm99/competitive_programming/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/abelkm99/competitive_programming/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -256,6 +257,7 @@
 | [0202-happy-number](https://github.com/abelkm99/competitive_programming/tree/master/0202-happy-number) |
 | [0670-maximum-swap](https://github.com/abelkm99/competitive_programming/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
+| [1375-find-palindrome-with-fixed-length](https://github.com/abelkm99/competitive_programming/tree/master/1375-find-palindrome-with-fixed-length) |
 ## Graph
 |  |
 | ------- |
