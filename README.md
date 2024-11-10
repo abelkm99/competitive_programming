@@ -246,6 +246,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/abelkm99/competitive_programming/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abelkm99/competitive_programming/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/abelkm99/competitive_programming/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/abelkm99/competitive_programming/tree/master/0062-unique-paths) |
