@@ -7,7 +7,7 @@ class Solution:
 
         def valid(i):
             return i >= 1 and arr[i] == arr[i - 1] or i >= 2 and arr[i] == arr[i -2]
-        # print(arr)
+            
         while i >= 0:
             arr[i] += 1
             while valid(i):
@@ -21,13 +21,13 @@ class Solution:
             else:
                 break 
 
-        # print(arr)
 
         for j in range(i, n):
             while valid(j):
                 arr[j] += 1
-                arr[j] %= k
+                if arr[j] == k:
+                    arr[j] %= k
+                    break
 
         ans =  "".join([chr(x + ord('a')) for x in arr])
-        # print(ans)
         return ans if ans > s else ""
