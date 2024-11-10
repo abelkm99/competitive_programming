@@ -24,16 +24,12 @@ class Solution:
         # print(arr)
 
         for j in range(i, n):
-            cnt = 0
             while valid(j):
                 arr[j] += 1
                 if arr[j] == k:
                     arr[j] %= k
-                    cnt += 1
-                if cnt == 2:
-                    return ""
+                    break
 
-            # print(arr)
         ans =  "".join([chr(x + ord('a')) for x in arr])
         # print(ans)
         return ans if ans > s else ""
