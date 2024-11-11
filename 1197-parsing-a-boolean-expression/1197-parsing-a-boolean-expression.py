@@ -7,5 +7,5 @@ class Solution:
         s = s.replace("&(", 'all([')
         s = s.replace("|(", "any([")
         s = s.replace(')','])')
-        print(s)
+        # print(s)
         return eval(s)
