@@ -158,6 +158,7 @@
 | [0670-maximum-swap](https://github.com/abelkm99/competitive_programming/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/abelkm99/competitive_programming/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abelkm99/competitive_programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2681-put-marbles-in-bags](https://github.com/abelkm99/competitive_programming/tree/master/2681-put-marbles-in-bags) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/abelkm99/competitive_programming/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Heap (Priority Queue)
 |  |
@@ -174,6 +175,7 @@
 | [1304-longest-happy-string](https://github.com/abelkm99/competitive_programming/tree/master/1304-longest-happy-string) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/abelkm99/competitive_programming/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abelkm99/competitive_programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2681-put-marbles-in-bags](https://github.com/abelkm99/competitive_programming/tree/master/2681-put-marbles-in-bags) |
 ## Array
 |  |
 | ------- |
@@ -231,6 +233,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abelkm99/competitive_programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abelkm99/competitive_programming/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/abelkm99/competitive_programming/tree/master/2554-minimum-total-distance-traveled) |
+| [2681-put-marbles-in-bags](https://github.com/abelkm99/competitive_programming/tree/master/2681-put-marbles-in-bags) |
 ## Union Find
 |  |
 | ------- |
@@ -324,6 +327,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abelkm99/competitive_programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/abelkm99/competitive_programming/tree/master/2554-minimum-total-distance-traveled) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2681-put-marbles-in-bags](https://github.com/abelkm99/competitive_programming/tree/master/2681-put-marbles-in-bags) |
 ## Quickselect
 |  |
 | ------- |
