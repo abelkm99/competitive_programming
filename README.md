@@ -16,6 +16,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abelkm99/competitive_programming/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -42,6 +43,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/abelkm99/competitive_programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1308-smallest-string-with-swaps](https://github.com/abelkm99/competitive_programming/tree/master/1308-smallest-string-with-swaps) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abelkm99/competitive_programming/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [1036-rotting-oranges](https://github.com/abelkm99/competitive_programming/tree/master/1036-rotting-oranges) |
 | [1308-smallest-string-with-swaps](https://github.com/abelkm99/competitive_programming/tree/master/1308-smallest-string-with-swaps) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abelkm99/competitive_programming/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -79,6 +82,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abelkm99/competitive_programming/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abelkm99/competitive_programming/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -223,6 +227,7 @@
 | [1977-minimum-interval-to-include-each-query](https://github.com/abelkm99/competitive_programming/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/abelkm99/competitive_programming/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abelkm99/competitive_programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abelkm99/competitive_programming/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/abelkm99/competitive_programming/tree/master/2554-minimum-total-distance-traveled) |
 ## Union Find
 |  |
