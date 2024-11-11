@@ -127,6 +127,7 @@
 | [1250-longest-common-subsequence](https://github.com/abelkm99/competitive_programming/tree/master/1250-longest-common-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abelkm99/competitive_programming/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/abelkm99/competitive_programming/tree/master/2554-minimum-total-distance-traveled) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/abelkm99/competitive_programming/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## String
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abelkm99/competitive_programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2681-put-marbles-in-bags](https://github.com/abelkm99/competitive_programming/tree/master/2681-put-marbles-in-bags) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/abelkm99/competitive_programming/tree/master/2687-lexicographically-smallest-beautiful-string) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/abelkm99/competitive_programming/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abelkm99/competitive_programming/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/abelkm99/competitive_programming/tree/master/2554-minimum-total-distance-traveled) |
 | [2681-put-marbles-in-bags](https://github.com/abelkm99/competitive_programming/tree/master/2681-put-marbles-in-bags) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/abelkm99/competitive_programming/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Union Find
 |  |
 | ------- |
@@ -405,6 +408,7 @@
 | [0739-daily-temperatures](https://github.com/abelkm99/competitive_programming/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/abelkm99/competitive_programming/tree/master/0883-car-fleet) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abelkm99/competitive_programming/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/abelkm99/competitive_programming/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -413,6 +417,7 @@
 | [0739-daily-temperatures](https://github.com/abelkm99/competitive_programming/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/abelkm99/competitive_programming/tree/master/0883-car-fleet) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abelkm99/competitive_programming/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/abelkm99/competitive_programming/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Shortest Path
 |  |
 | ------- |
