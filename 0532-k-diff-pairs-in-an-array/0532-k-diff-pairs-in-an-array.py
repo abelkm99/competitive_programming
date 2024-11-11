@@ -3,10 +3,6 @@ class Solution:
         counter = Counter(nums)
         cnt = 0
         for c in counter.keys():
-            if c + k in counter:
-                if k == 0 and counter[c] >= 2:
-                    cnt += 1
-                    continue
-                elif k != 0:
-                    cnt += 1
+            if c + k in counter and (k != 0 or counter[c] >= 2):
+                cnt += 1
         return cnt
