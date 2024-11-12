@@ -91,6 +91,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abelkm99/competitive_programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abelkm99/competitive_programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/abelkm99/competitive_programming/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/abelkm99/competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/abelkm99/competitive_programming/tree/master/0792-binary-search) |
@@ -119,6 +120,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abelkm99/competitive_programming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/abelkm99/competitive_programming/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0410-split-array-largest-sum](https://github.com/abelkm99/competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abelkm99/competitive_programming/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/abelkm99/competitive_programming/tree/master/0518-coin-change-ii) |
@@ -155,6 +157,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/abelkm99/competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abelkm99/competitive_programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/abelkm99/competitive_programming/tree/master/0621-task-scheduler) |
@@ -213,6 +216,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abelkm99/competitive_programming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/abelkm99/competitive_programming/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abelkm99/competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0410-split-array-largest-sum](https://github.com/abelkm99/competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abelkm99/competitive_programming/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abelkm99/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0435-non-overlapping-intervals) |
@@ -432,6 +436,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/abelkm99/competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [1184-car-pooling](https://github.com/abelkm99/competitive_programming/tree/master/1184-car-pooling) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/abelkm99/competitive_programming/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abelkm99/competitive_programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
