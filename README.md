@@ -173,6 +173,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/abelkm99/competitive_programming/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/abelkm99/competitive_programming/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/abelkm99/competitive_programming/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/abelkm99/competitive_programming/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -305,10 +306,12 @@
 | [0155-min-stack](https://github.com/abelkm99/competitive_programming/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/abelkm99/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abelkm99/competitive_programming/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/abelkm99/competitive_programming/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/abelkm99/competitive_programming/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
@@ -325,6 +328,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abelkm99/competitive_programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abelkm99/competitive_programming/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/abelkm99/competitive_programming/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abelkm99/competitive_programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -381,6 +385,7 @@
 | [0031-next-permutation](https://github.com/abelkm99/competitive_programming/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/abelkm99/competitive_programming/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/abelkm99/competitive_programming/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/abelkm99/competitive_programming/tree/master/0567-permutation-in-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abelkm99/competitive_programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
