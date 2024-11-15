@@ -168,6 +168,7 @@
 | [2681-put-marbles-in-bags](https://github.com/abelkm99/competitive_programming/tree/master/2681-put-marbles-in-bags) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/abelkm99/competitive_programming/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/abelkm99/competitive_programming/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/abelkm99/competitive_programming/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -247,6 +248,7 @@
 | [2554-minimum-total-distance-traveled](https://github.com/abelkm99/competitive_programming/tree/master/2554-minimum-total-distance-traveled) |
 | [2681-put-marbles-in-bags](https://github.com/abelkm99/competitive_programming/tree/master/2681-put-marbles-in-bags) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/abelkm99/competitive_programming/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/abelkm99/competitive_programming/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Union Find
 |  |
 | ------- |
@@ -285,6 +287,7 @@
 | [0670-maximum-swap](https://github.com/abelkm99/competitive_programming/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/abelkm99/competitive_programming/tree/master/1375-find-palindrome-with-fixed-length) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/abelkm99/competitive_programming/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Graph
 |  |
 | ------- |
@@ -490,4 +493,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abelkm99/competitive_programming/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/abelkm99/competitive_programming/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
