@@ -164,6 +164,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abelkm99/competitive_programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/abelkm99/competitive_programming/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/abelkm99/competitive_programming/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/abelkm99/competitive_programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/abelkm99/competitive_programming/tree/master/1304-longest-happy-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abelkm99/competitive_programming/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abelkm99/competitive_programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -233,6 +234,7 @@
 | [0695-max-area-of-island](https://github.com/abelkm99/competitive_programming/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/abelkm99/competitive_programming/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/abelkm99/competitive_programming/tree/master/0747-min-cost-climbing-stairs) |
+| [0780-max-chunks-to-make-sorted](https://github.com/abelkm99/competitive_programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/abelkm99/competitive_programming/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/abelkm99/competitive_programming/tree/master/0794-swim-in-rising-water) |
 | [0883-car-fleet](https://github.com/abelkm99/competitive_programming/tree/master/0883-car-fleet) |
@@ -342,6 +344,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abelkm99/competitive_programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/abelkm99/competitive_programming/tree/master/0621-task-scheduler) |
+| [0780-max-chunks-to-make-sorted](https://github.com/abelkm99/competitive_programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/abelkm99/competitive_programming/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/abelkm99/competitive_programming/tree/master/1184-car-pooling) |
@@ -426,6 +429,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/abelkm99/competitive_programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abelkm99/competitive_programming/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/abelkm99/competitive_programming/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/abelkm99/competitive_programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/abelkm99/competitive_programming/tree/master/0883-car-fleet) |
 | [1197-parsing-a-boolean-expression](https://github.com/abelkm99/competitive_programming/tree/master/1197-parsing-a-boolean-expression) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abelkm99/competitive_programming/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -436,6 +440,7 @@
 | [0042-trapping-rain-water](https://github.com/abelkm99/competitive_programming/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abelkm99/competitive_programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/abelkm99/competitive_programming/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/abelkm99/competitive_programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/abelkm99/competitive_programming/tree/master/0883-car-fleet) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abelkm99/competitive_programming/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/abelkm99/competitive_programming/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
