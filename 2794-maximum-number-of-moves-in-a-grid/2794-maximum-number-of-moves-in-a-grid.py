@@ -18,6 +18,4 @@ class Solution:
                         dp[r][c] = max(dp[r][c], dp[dx][dy] + 1)
                         if c == 0:
                             ans = max(ans, dp[r][c])
-        for i in range(n):
-            print(dp[i])
         return ans
