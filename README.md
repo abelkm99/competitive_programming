@@ -129,6 +129,7 @@
 | [1250-longest-common-subsequence](https://github.com/abelkm99/competitive_programming/tree/master/1250-longest-common-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abelkm99/competitive_programming/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/abelkm99/competitive_programming/tree/master/2554-minimum-total-distance-traveled) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/abelkm99/competitive_programming/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/abelkm99/competitive_programming/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## String
 |  |
@@ -254,6 +255,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abelkm99/competitive_programming/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/abelkm99/competitive_programming/tree/master/2554-minimum-total-distance-traveled) |
 | [2681-put-marbles-in-bags](https://github.com/abelkm99/competitive_programming/tree/master/2681-put-marbles-in-bags) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/abelkm99/competitive_programming/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/abelkm99/competitive_programming/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/abelkm99/competitive_programming/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Union Find
@@ -280,6 +282,7 @@
 | [0695-max-area-of-island](https://github.com/abelkm99/competitive_programming/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/abelkm99/competitive_programming/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/abelkm99/competitive_programming/tree/master/1036-rotting-oranges) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/abelkm99/competitive_programming/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Math
 |  |
 | ------- |
