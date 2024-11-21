@@ -247,6 +247,7 @@
 | [0883-car-fleet](https://github.com/abelkm99/competitive_programming/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/abelkm99/competitive_programming/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
+| [1028-interval-list-intersections](https://github.com/abelkm99/competitive_programming/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/abelkm99/competitive_programming/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/abelkm99/competitive_programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/abelkm99/competitive_programming/tree/master/1184-car-pooling) |
@@ -415,6 +416,7 @@
 | [0295-find-median-from-data-stream](https://github.com/abelkm99/competitive_programming/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/abelkm99/competitive_programming/tree/master/0567-permutation-in-string) |
+| [1028-interval-list-intersections](https://github.com/abelkm99/competitive_programming/tree/master/1028-interval-list-intersections) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abelkm99/competitive_programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Trie
 |  |
