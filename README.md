@@ -97,6 +97,7 @@
 | [0792-binary-search](https://github.com/abelkm99/competitive_programming/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/abelkm99/competitive_programming/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/abelkm99/competitive_programming/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/abelkm99/competitive_programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/abelkm99/competitive_programming/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/abelkm99/competitive_programming/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Dynamic Programming
@@ -247,6 +248,7 @@
 | [0907-koko-eating-bananas](https://github.com/abelkm99/competitive_programming/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/abelkm99/competitive_programming/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/abelkm99/competitive_programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/abelkm99/competitive_programming/tree/master/1184-car-pooling) |
 | [1308-smallest-string-with-swaps](https://github.com/abelkm99/competitive_programming/tree/master/1308-smallest-string-with-swaps) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/abelkm99/competitive_programming/tree/master/1375-find-palindrome-with-fixed-length) |
@@ -432,6 +434,7 @@
 | [0239-sliding-window-maximum](https://github.com/abelkm99/competitive_programming/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/abelkm99/competitive_programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abelkm99/competitive_programming/tree/master/0567-permutation-in-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/abelkm99/competitive_programming/tree/master/1046-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
@@ -471,6 +474,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/abelkm99/competitive_programming/tree/master/0410-split-array-largest-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/abelkm99/competitive_programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/abelkm99/competitive_programming/tree/master/1184-car-pooling) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/abelkm99/competitive_programming/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abelkm99/competitive_programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
