@@ -250,6 +250,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abelkm99/competitive_programming/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/abelkm99/competitive_programming/tree/master/1706-min-cost-to-connect-all-points) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/abelkm99/competitive_programming/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2146-check-if-word-can-be-placed-in-crossword](https://github.com/abelkm99/competitive_programming/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/abelkm99/competitive_programming/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abelkm99/competitive_programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/abelkm99/competitive_programming/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -282,6 +283,7 @@
 | [0695-max-area-of-island](https://github.com/abelkm99/competitive_programming/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/abelkm99/competitive_programming/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/abelkm99/competitive_programming/tree/master/1036-rotting-oranges) |
+| [2146-check-if-word-can-be-placed-in-crossword](https://github.com/abelkm99/competitive_programming/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/abelkm99/competitive_programming/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Math
 |  |
@@ -515,4 +517,8 @@
 |  |
 | ------- |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/abelkm99/competitive_programming/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+## Enumeration
+|  |
+| ------- |
+| [2146-check-if-word-can-be-placed-in-crossword](https://github.com/abelkm99/competitive_programming/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 <!---LeetCode Topics End-->
