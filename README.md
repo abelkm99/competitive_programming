@@ -189,6 +189,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/abelkm99/competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/abelkm99/competitive_programming/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/abelkm99/competitive_programming/tree/master/1304-longest-happy-string) |
+| [1955-seat-reservation-manager](https://github.com/abelkm99/competitive_programming/tree/master/1955-seat-reservation-manager) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/abelkm99/competitive_programming/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abelkm99/competitive_programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2681-put-marbles-in-bags](https://github.com/abelkm99/competitive_programming/tree/master/2681-put-marbles-in-bags) |
@@ -325,6 +326,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/abelkm99/competitive_programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/abelkm99/competitive_programming/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abelkm99/competitive_programming/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1955-seat-reservation-manager](https://github.com/abelkm99/competitive_programming/tree/master/1955-seat-reservation-manager) |
 ## Data Stream
 |  |
 | ------- |
