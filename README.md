@@ -155,6 +155,7 @@
 | [1250-longest-common-subsequence](https://github.com/abelkm99/competitive_programming/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/abelkm99/competitive_programming/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/abelkm99/competitive_programming/tree/master/1308-smallest-string-with-swaps) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abelkm99/competitive_programming/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/abelkm99/competitive_programming/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
@@ -169,6 +170,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/abelkm99/competitive_programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/abelkm99/competitive_programming/tree/master/1304-longest-happy-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abelkm99/competitive_programming/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abelkm99/competitive_programming/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/abelkm99/competitive_programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2681-put-marbles-in-bags](https://github.com/abelkm99/competitive_programming/tree/master/2681-put-marbles-in-bags) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/abelkm99/competitive_programming/tree/master/2687-lexicographically-smallest-beautiful-string) |
