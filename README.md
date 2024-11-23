@@ -237,6 +237,7 @@
 | [0435-non-overlapping-intervals](https://github.com/abelkm99/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abelkm99/competitive_programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/abelkm99/competitive_programming/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/abelkm99/competitive_programming/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/abelkm99/competitive_programming/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/abelkm99/competitive_programming/tree/master/0695-max-area-of-island) |
@@ -399,6 +400,7 @@
 | [0217-contains-duplicate](https://github.com/abelkm99/competitive_programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abelkm99/competitive_programming/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/abelkm99/competitive_programming/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/abelkm99/competitive_programming/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abelkm99/competitive_programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/abelkm99/competitive_programming/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/abelkm99/competitive_programming/tree/master/0621-task-scheduler) |
@@ -480,6 +482,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/abelkm99/competitive_programming/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/abelkm99/competitive_programming/tree/master/0525-contiguous-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/abelkm99/competitive_programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/abelkm99/competitive_programming/tree/master/1184-car-pooling) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/abelkm99/competitive_programming/tree/master/2334-number-of-flowers-in-full-bloom) |
