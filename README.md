@@ -161,6 +161,7 @@
 | [1308-smallest-string-with-swaps](https://github.com/abelkm99/competitive_programming/tree/master/1308-smallest-string-with-swaps) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abelkm99/competitive_programming/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/abelkm99/competitive_programming/tree/master/2687-lexicographically-smallest-beautiful-string) |
+| [3451-string-compression-iii](https://github.com/abelkm99/competitive_programming/tree/master/3451-string-compression-iii) |
 ## Greedy
 |  |
 | ------- |
